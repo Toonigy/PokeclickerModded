@@ -12,8 +12,8 @@ var firstQuest = {progress: 0, type: "defeatPokemonRoute", description: "Defeat 
 var player = {
 	clickAttack: 1,
 	clickMultiplier: 1,
-	attack: 0,
-	attackMultiplier: 1,
+	attack: 999999999,
+	attackMultiplier: 999999999,
 	money: 0,
 	dungeonTokens: 0,
 	dungeonTokenMultiplier: 1,
