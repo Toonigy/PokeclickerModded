@@ -10,8 +10,8 @@ var Gym = function(leaderName,town,pokemons,badgeReward,moneyReward,badgeReq){
 		badgeReward: badgeReward,
 		moneyReward: moneyReward,
 		badgeReq: badgeReq,
-		timeLimit: 30*100,
-		timeLeft: 30*100
+		timeLimit: 100*100,
+		timeLeft: 100*100
 	}
 	return temp;
 }
